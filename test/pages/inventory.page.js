@@ -1,4 +1,4 @@
-import { $,browser } from '@wdio/globals';
+import { $ } from '@wdio/globals';
 import loginPage from '../pages/login.page.js';
 
 class InvPage

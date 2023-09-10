@@ -1,4 +1,4 @@
-import { $,browser } from '@wdio/globals';
+import { $ } from '@wdio/globals';
 
 class CartPage
 {
